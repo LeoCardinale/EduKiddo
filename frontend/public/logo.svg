@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&amp;display=swap');
+  </style>
+  
+  <!-- Individual letters with embedded font-family -->
+  <text x="60" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#1976D2">E</text>
+  <text x="120" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#1976D2">D</text>
+  <text x="184" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#1976D2">U</text>
+  <text x="248" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#FF9800">K</text>
+  <text x="312" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#03A9F4">I</text>
+  <text x="352" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#00BCD4">D</text>
+  <text x="416" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#00ACC1">D</text>
+  <text x="480" y="96" style="font-family: 'Nunito', sans-serif; font-weight: 800;" font-size="76" fill="#FF5722">O</text>
+
+  <!-- Floating dots with orange accent -->
+  <circle cx="30" cy="40" r="6" fill="#FF9800"/>
+  <circle cx="550" cy="110" r="6" fill="#FF5722"/>
+</svg>

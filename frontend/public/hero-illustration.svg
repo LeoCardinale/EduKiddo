@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+  <!-- Background elements -->
+  <defs>
+    <linearGradient id="circleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E3F2FD"/>
+      <stop offset="100%" style="stop-color:#BBDEFB"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Large background circle -->
+  <circle cx="250" cy="200" r="180" fill="url(#circleGrad)" opacity="0.3"/>
+
+  <!-- Central composition -->
+  <!-- Book base -->
+  <path d="M150 150 L350 150 L350 300 L150 300 Z" fill="#2196F3"/>
+  <path d="M150 150 L350 150 Q200 200 150 150" fill="#1976D2"/>
+  
+  <!-- Creative elements floating out -->
+  <!-- Paint splashes -->
+  <path d="M200 120 Q230 100, 260 120 T320 120" fill="none" stroke="#FF9800" stroke-width="4"/>
+  <path d="M180 280 Q210 300, 240 280 T300 280" fill="none" stroke="#FF5722" stroke-width="4"/>
+  
+  <!-- Floating elements representing learning -->
+  <g transform="rotate(-15, 280, 180)">
+    <rect x="280" y="180" width="40" height="40" fill="#FF9800" opacity="0.8"/>
+    <text x="290" y="205" font-family="Nunito" font-size="16" fill="white">A+</text>
+  </g>
+  
+  <g transform="rotate(15, 220, 220)">
+    <circle cx="220" cy="220" r="25" fill="#00BCD4" opacity="0.8"/>
+    <text x="210" y="225" font-family="Nunito" font-size="16" fill="white">✓</text>
+  </g>
+  
+  <!-- Activity symbols -->
+  <g transform="translate(320, 240)">
+    <path d="M0 0 L20 -10 L40 0 L20 10 Z" fill="#FF5722"/>
+    <circle cx="20" cy="0" r="5" fill="white"/>
+  </g>
+  
+  <!-- Brain symbol representing wisdom -->
+  <path d="M240 100 Q260 80, 280 100 T320 100 Q340 80, 320 60 T280 40" fill="none" stroke="#1976D2" stroke-width="3"/>
+  
+  <!-- Connected dots representing network of knowledge -->
+  <g>
+    <circle cx="180" cy="160" r="3" fill="#FF9800"/>
+    <circle cx="220" cy="140" r="3" fill="#FF9800"/>
+    <circle cx="260" cy="160" r="3" fill="#FF9800"/>
+    <line x1="180" y1="160" x2="220" y2="140" stroke="#FF9800" stroke-width="1"/>
+    <line x1="220" y1="140" x2="260" y2="160" stroke="#FF9800" stroke-width="1"/>
+  </g>
+
+  <!-- Dynamic movement lines -->
+  <g stroke="#90CAF9" stroke-width="2" opacity="0.5">
+    <path d="M150 350 Q200 330, 250 350 T350 350" fill="none"/>
+    <path d="M150 360 Q200 340, 250 360 T350 360" fill="none"/>
+  </g>
+</svg>
