@@ -95,7 +95,7 @@ const TestResults: React.FC<TestResultsProps> = ({ kiddo, onContinue }) => {
                         ¡Es hora de comenzar tu aventura! 🚀
                     </h3>
                     <p className="text-lg text-blue-700 mb-6">
-                        Con Edukiddo, aprenderás de la manera que más te funciona.
+                        Con EduKiddo, aprenderás de la manera que más te funciona.
                         Hemos preparado actividades especiales que se adaptan a tu forma única de aprender.
                     </p>
                     <button

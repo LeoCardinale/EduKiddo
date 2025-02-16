@@ -76,7 +76,7 @@ export default function Home() {
         <div className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="lg:text-center">
-              <h2 className="text-3xl text-blue-600 font-semibold">¿Por qué Edukiddo?</h2>
+              <h2 className="text-3xl text-blue-600 font-semibold">¿Por qué EduKiddo?</h2>
             </div>
 
             <div className="mt-10">
@@ -159,7 +159,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
           <div className="flex justify-center space-x-6 md:order-2">
             <p className="text-gray-400 hover:text-gray-500">
-              © 2024 Edukiddo. Todos los derechos reservados.
+              © 2024 EduKiddo. Todos los derechos reservados.
             </p>
           </div>
         </div>
